@@ -1,0 +1,25 @@
+Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~155|Field=Footprint~String~Footprint~116|Field=LibRef~String~LibRef~116|Field=Quantity~Integer~Quantity~113|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~uPICoid.PrjPCB|ReportField=ProjectFullPath~D:\My Dropbox\Electro\Projects\Dev Board\uPICoid\uPICoid.PrjPCB|ReportField=Title~Bill of Materials For Project [uPICoid.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~41|ReportField=ReportTime~10:30:31|ReportField=ReportDate~2012-05-10|ReportField=ReportDateTime~2012-05-10 10:30:31|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2012-05-10|ReportField=CurrentTime~10:29:54|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\My Dropbox\Electro\Projects\Dev Board\uPICoid\uPICoid-revA0.SchDoc|ReportField=DocumentName~uPICoid-revA0.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2012-03-30|ReportField=Organization~|ReportField=ProjectName~uPICoid.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~uPICoid.PrjPCB|ReportField=DataSourceFullPath~D:\My Dropbox\Electro\Projects\Dev Board\uPICoid\uPICoid.PrjPCB
+Tact Button NO||BTN, MCLR|TACT SMD 4.5×4.5mm|Tact Button NO|2
+10µF||C1, C2|CAPC3225N|Capacitor|2
+100nF||C3, C5, C8, C9, C11, C12|CAPC1608N|Capacitor|6
+10µF||C4, C10|CAPC2012N|Capacitor|2
+15pF||C6, C7|CAPC1608N|Capacitor|2
+USB-Conn Mini-B SMD||CONN1|440478|USB-Conn Mini-B SMD|1
+Header 5|Header, 5-Pin|ISCP|HDR1X5|Header 5|1
+120R||L1, L2|INDC1608N|Inductor|2
+MHDR1X2|Header, 2-Pin|LED, USD ID, VUSB|MHDR1X2|MHDR1X2|3
+Green||LED1|LED PLCC-2|LED|1
+LED RGB common A||LED2|LED 3528m|LED RGB common A|1
+Header 10|Header, 10-Pin|Left|HDR1X10|Header 10|1
+500mA||PTC1|RESC3225N|PTC|1
+Header 2|Header, 2-Pin|PWR|HDR1X2|Header 2|1
+0||R1|RESC1608N|Resistor|1
+470||R2, R3, R5, R9|RESC1608N|Resistor|4
+10K||R4, R8|RESC1608N|Resistor|2
+330||R6, R7|RESC1608N|Resistor|2
+Header 9|Header, 9-Pin|Right|HDR1X9|Header 9|1
+microSD Spring-load SMD||SD|microSD Spring SMD|microSD Spring-load SMD|1
+Header 4|Header, 4-Pin|SPC|HDR1X4|Header 4|1
+TPS7A4533||U1|SOT223-6N|TPS7A45xx|1
+PIC32MX250F128B||U2|SSOP28_N|PIC32MX220FxxxB|1
+Crystal||X1|BCY-W2/D3.1|Crystal|1

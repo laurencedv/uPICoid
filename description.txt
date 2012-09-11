@@ -1,0 +1,16 @@
+Developpemnt Board for Microchip's PIC32MX200 series micro-controllers.
+
+Features:
+- PIC32MX250B128 with 128KB ROM / 32KB RAM
+- On-chip USB OTG 2.0 transceiver (low-speed/full-speed)
+- DMA / PWM / SPI / I2S / I2C / UART / PMP / CTMU / RTCC / JTAG / Analog Comparator / ADC 10b
+- On-board 16MHz 100ppm Crystal
+- On-board RGB LED (PWM possible on all colors)
+- 1 User assignable button / 1 Master Clear button
+- microSD card slot (SPI mode)
+- Multiple jumper for flexibility of IO use
+- On-board 3.3V 1A LDO low-noise regulator (from USB or breadboard)
+- ICSP easily accessed connector for In-circuit programming and debugging
+- Small form-factor and fancy looking power LED
+
+Schematic and Documents: www.megaxone.net/upicoid
